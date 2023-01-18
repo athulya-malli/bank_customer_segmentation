@@ -1,11 +1,11 @@
 # Project: Bank Customer Segmentation to give promotional offers to customers
 Analysis: Concepts of clustering were used to draw inferences and identify the spending groups.
 
-![plot]("C:\Users\Athulya\OneDrive\Desktop\Great Lakes\Github\Bank customer segmentation\elbow curve.png")
+![image info](C:\Users\Athulya\OneDrive\Desktop\Great Lakes\Github\Bank customer segmentation\elbow curve.png)
 
 Outcome: 3 spending groups – high, medium and low were identified.
 
-![plot]("C:\Users\Athulya\OneDrive\Desktop\Great Lakes\Github\Bank customer segmentation\clusters.png")
+![image info]("C:\Users\Athulya\OneDrive\Desktop\Great Lakes\Github\Bank customer segmentation\clusters.png")
 
 Business decision: 
 High spending group - The credit limit of the group can be increased thereby encouraging them for more purchases. 
